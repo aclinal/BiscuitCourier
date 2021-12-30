@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Biscuit
   - Doggo
+  - Boost
   layers:
   - Default
   - TransparentFX
